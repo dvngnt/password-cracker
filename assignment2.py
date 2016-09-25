@@ -12,7 +12,7 @@ def printme(str):
                 return line
         f.close()
 def dictAttack(originalPw, hashVal):
-    with open("/home/seed/Documents/cosc440/john.txt", "r") as f:
+    with open("./john.txt", "r") as f:
         print("we are looking for a password with a hash value of " + originalPw + "\n")
         for line in f:
 	    line = line.strip();	
