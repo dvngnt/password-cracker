@@ -13,4 +13,4 @@ If you want to use your own dictonary replace the ./john.txt path in line 15 wit
 
 
 --built using python3 
--- acsii art generated from this website patorjk.com/software/taag/
+--acsii art generated from this website patorjk.com/software/taag/
